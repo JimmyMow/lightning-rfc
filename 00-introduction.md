@@ -67,7 +67,7 @@ See [BOLT #2: Forwarding HTLCs](02-peer-protocol.md#forwarding-htlcs) for detail
 ### Network Topology
 
 To make a payment, a participant needs to know what channels it can
-send through.  Participants tell each other about channel and node
+send through.  Participants tell each other about channels, node
 creation, and updates.
 
 See [BOLT #7: P2P Node and Channel Discovery](07-routing-gossip.md)
